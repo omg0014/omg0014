@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full-Stack Developer & Competitive Programmer – passionate about building functional and engaging applications.<br>🎨 Skilled in designing intuitive UIs and developing robust frontend, backend, and database systems.<br>⚡ Experienced with Python, React, Node.js, Express.js, MySQL, Prisma ORM, and Pandas.<br>🏆 Solved 300+ competitive programming problems and 500+ commits on Github.<br>📈 Strong academic foundation – secured AIR 5142 in JEE Advanced.
+💻 Full-Stack Developer & Competitive Programmer – passionate about building functional and engaging applications.<br>🎨 Skilled in designing intuitive UIs and developing robust frontend, backend, and database systems.<br>⚡ Experienced with Python, React, Node.js, Express.js, MySQL, Prisma ORM, and Pandas.<br>🏆 Solved 500+ competitive programming problems and 500+ commits on Github.<br>📈 Strong academic foundation – secured AIR 5142 in JEE Advanced.
 
 
 ## 🌐 Socials:
