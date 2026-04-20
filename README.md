@@ -7,10 +7,39 @@
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omg0014&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omg0014&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omg0014&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## <img src="https://cdn.simpleicons.org/githubactions/22C55E" width="20" height="20" valign="middle"/> GitHub Analytics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats-bsaonsnye-deepakpathiks-projects.vercel.app/api?username=omg0014&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+  height="195"
+  alt="GitHub Stats"
+/>
+&nbsp;&nbsp;
+<img
+  src="https://github-readme-stats-bsaonsnye-deepakpathiks-projects.vercel.app/api/top-langs/?username=omg0014&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="195"
+  alt="Top Languages"
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=omg0014&theme=tokyonight&hide_border=true&border_radius=8&ring=22C55E&fire=F97316&currStreakLabel=22C55E"
+  height="195"
+  alt="GitHub Streak"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=omg0014&bg_color=1a1b27&color=22C55E&line=0EA5E9&point=F97316&area=true&hide_border=true&radius=8"
+  width="100%"
+  alt="Activity Graph"
+/>
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=omg0014&theme=solarized-dark&no-frame=false&no-bg=false&margin-w=4)
